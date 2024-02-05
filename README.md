@@ -1,5 +1,5 @@
-![Workflow](https://github.com/Mrazzzlop/kittygram_final/actions/workflows/main.yml/badge.svg)
-_
+[![Workflow](https://img.shields.io/badge/username-EugeneSal-green)](https://github.com/EugeneSal)
+
 # Социальная сеть Kittygram
 
 ## Kittygram: это социальная сеть, с возможностью обмена фотографий, достижений, а также возраста кошек.
