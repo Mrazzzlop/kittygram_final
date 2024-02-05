@@ -1,5 +1,4 @@
-[![Workflow](https://img.shields.io/badge/Mrazzzlop-green)](https://github.com/EugeneSal)
-
+![Workflow](https://github.com/Mrazzzlop/kittygram_final/actions/workflows/main.yml/badge.svg) 
 # Социальная сеть Kittygram
 
 ## Kittygram: это социальная сеть, с возможностью обмена фотографий, достижений, а также возраста кошек.
