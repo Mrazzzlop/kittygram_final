@@ -1,4 +1,4 @@
-![Workflow](https://github.com/EugeneSal/kittygram_final/actions/workflows/main.yml/badge.svg)
+![Workflow](https://github.com/Mrazzzlop/kittygram_final/actions/workflows/main.yml/badge.svg)
 _
 # Социальная сеть Kittygram
 
