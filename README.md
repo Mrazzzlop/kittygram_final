@@ -1,4 +1,4 @@
-[![Workflow](https://img.shields.io/badge/Mrazzzlop-EugeneSal-green)](https://github.com/EugeneSal)
+[![Workflow](https://img.shields.io/badge/Mrazzzlop-green)](https://github.com/EugeneSal)
 
 # Социальная сеть Kittygram
 
