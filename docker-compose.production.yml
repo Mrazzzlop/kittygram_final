@@ -21,15 +21,6 @@ services:
     depends_on:
       - db
 
-  frontend:
-    image: mrazzzlop/kittygram_frontend
-    env_file: .env
-    command: cp -r /app/build/. /frontend_static/
-    volumes:
-      - static_volume:/frontend_static
-    depends_on:
-      - backend
-
   gateway:
     image: mrazzzlop/kittygram_gateway
     env_file: .env
